@@ -36,8 +36,8 @@
         
         // example: 
         collectable.create(type.steve, 200, 170, 6, 0.7);
-        
-        
+        collectable.create(type.steve, 300, 160, 5, 0.8)
+        collectable.create(type.steve, 500, 150, 7, 0.4)
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
